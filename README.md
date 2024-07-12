@@ -1,4 +1,3 @@
-```markdown
 # Shopify Docker Environment Setup
 
 ## Docker Container Setup
