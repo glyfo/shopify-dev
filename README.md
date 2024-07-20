@@ -1,4 +1,4 @@
-## Shopify Docker Environment Setup
+## Shopify Docker Environment Setup to support Headless StoreFront
 
 ### Docker Container Setup
 
@@ -41,3 +41,10 @@ npm install -g @shopify/cli@latest
 Install the "Remote - Containers" extension in Visual Studio Code:
 
 - Extension: [ms-vscode-remote.remote-containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
+
+
+#### Reference 
+
+- Headless self-hosting: [https://shopify.dev/docs/storefronts/headless/hydrogen/deployments/self-hosting)
+
+
