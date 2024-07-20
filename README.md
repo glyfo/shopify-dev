@@ -43,8 +43,10 @@ Install the "Remote - Containers" extension in Visual Studio Code:
 - Extension: [ms-vscode-remote.remote-containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
 
 
-#### Reference 
+### Shopify Developer
 
-- Headless self-hosting: [https://shopify.dev/docs/storefronts/headless/hydrogen/deployments/self-hosting)
+#### Reference Headless
+
+- Guide self-hosting : [https://shopify.dev/docs/storefronts/headless/hydrogen/deployments/self-hosting)
 
 
